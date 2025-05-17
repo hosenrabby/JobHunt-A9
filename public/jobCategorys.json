@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cat001",
+    "name": "Engineering",
+    "categoryLogo": "https://i.ibb.co.com/zW5KF7rb/icons8-engineering-64.png"
+  },
+  {
+    "id": "cat002",
+    "name": "Product",
+    "categoryLogo": "https://i.ibb.co.com/6RxG8v0x/icons8-product-100.png"
+  },
+  {
+    "id": "cat003",
+    "name": "Design",
+    "categoryLogo": "https://i.ibb.co.com/kV6ydh2Q/icons8-design-100.png"
+  },
+  {
+    "id": "cat004",
+    "name": "Quality Assurance",
+    "categoryLogo": "https://i.ibb.co.com/nsMy7vxN/icons8-quality-assurance-64.png"
+  },
+  {
+    "id": "cat005",
+    "name": "Infrastructure",
+    "categoryLogo": "https://i.ibb.co.com/nMR7C0QB/icons8-infrastructure-64.png"
+  },
+  {
+    "id": "cat006",
+    "name": "Data Science",
+    "categoryLogo": "https://i.ibb.co.com/3mFMHf1Y/icons8-data-science-64.png"
+  },
+  {
+    "id": "cat007",
+    "name": "Human Resources",
+    "categoryLogo": "https://i.ibb.co.com/tnh4Z62/icons8-human-resources-64.png"
+  },
+  {
+    "id": "cat008",
+    "name": "Marketing",
+    "categoryLogo": "https://i.ibb.co.com/HTCRGdsh/icons8-commercial-100.png"
+  },
+  {
+    "id": "cat009",
+    "name": "Customer Support",
+    "categoryLogo": "https://i.ibb.co.com/0jC3X6y2/icons8-online-support-100.png"
+  },
+  {
+    "id": "cat010",
+    "name": "Finance",
+    "categoryLogo": "https://i.ibb.co.com/LdLFV7Jh/icons8-finance-presentation-96.png"
+  },
+  {
+    "id": "cat011",
+    "name": "Business Development",
+    "categoryLogo": "https://i.ibb.co.com/TBCMRkv5/icons8-business-96.png"
+  },
+  {
+    "id": "cat012",
+    "name": "Sales",
+    "categoryLogo": "https://i.ibb.co.com/2YkfWpC3/icons8-sales-96.png"
+  }
+]

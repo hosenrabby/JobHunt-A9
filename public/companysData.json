@@ -1,0 +1,191 @@
+[
+    {
+        "id": "CMP001",
+        "name": "TechNova Solutions",
+        "logo": "https://i.ibb.co.com/FktbSRrd/compressed-b6d3ca9d74f89d938f1e9c10d531122b.webp",
+        "discription": "TechNova Solutions is a forward-thinking software development company specializing in innovative enterprise solutions. We help organizations automate processes, enhance customer experience, and achieve digital transformation. With a team of over 200 experienced developers, designers, and project managers, we ensure successful product delivery with high performance. Our services span mobile and web app development, AI integration, cloud computing, and cybersecurity. We partner with businesses globally to provide scalable, secure, and user-centric software tailored to their needs. Our commitment to quality and innovation places us at the forefront of the software industry.",
+        "location": "San Francisco, CA",
+        "website": "https://technova.com/",
+        "industry": "Software Development"
+    },
+    {
+        "id": "CMP002",
+        "name": "DataBridge Inc",
+        "logo": "https://i.ibb.co.com/Y4r0j4L7/databridge.png",
+        "discription": "DataBridge Inc. is a data analytics and business intelligence firm that helps enterprises unlock the full potential of their data. We deliver solutions that enable better forecasting, reporting, and performance optimization through robust data engineering and visualization tools. With a diverse client base from healthcare to retail, our services include data warehousing, machine learning, and predictive analytics. Our team is composed of statisticians, data scientists, and software engineers who work closely with clients to create tailored solutions. We pride ourselves on accuracy, transparency, and continuous innovation to deliver long-term data-driven success.",
+        "location": "New York, NY",
+        "website": "https://www.data-bridge.com/",
+        "industry": "Data Analytics"
+    },
+    {
+        "id": "CMP003",
+        "name": "CloudNest",
+        "logo": "https://i.ibb.co.com/tpSJMcLT/cloudnest.png",
+        "discription": "CloudNest provides cutting-edge cloud infrastructure and DevOps solutions to startups and enterprises around the globe. Our platform allows seamless deployment, monitoring, and scaling of applications on public and private clouds. We are experts in AWS, Azure, Google Cloud, and container orchestration platforms like Kubernetes. Our team works closely with clients to ensure cloud-native best practices are integrated into every stage of their DevOps lifecycle. With years of experience in automation, continuous delivery, and system architecture, we help businesses increase uptime, improve security, and reduce time-to-market.",
+        "location": "Seattle, WA",
+        "website": "https://cloudnest.io/",
+        "industry": "Cloud Computing"
+    },
+    {
+        "id": "CMP004",
+        "name": "FinCore Technologies",
+        "logo": "https://i.ibb.co.com/MxqLDtsX/lfakixzxm8kktmgxowkx.webp",
+        "discription": "FinCore Technologies is revolutionizing the fintech space by offering secure and innovative digital banking, payment, and investment solutions. Our clients range from fintech startups to traditional banks aiming to go digital. FinCore’s core products include mobile banking platforms, fraud detection systems powered by AI, and blockchain-based ledgers. With a mission to democratize access to financial services, we also partner with NGOs and government bodies. Our robust APIs, modular platforms, and industry compliance ensure seamless integration and reliability, allowing financial institutions to focus on growth and innovation while we handle the tech.",
+        "location": "Toronto, Canada",
+        "website": "https://fincortech.com/",
+        "industry": "Financial Technology"
+    },
+    {
+        "id": "CMP005",
+        "name": "MediSoft Labs",
+        "logo": "https://i.ibb.co.com/JwZJMjkJ/1630488647.png",
+        "discription": "MediSoft Labs specializes in developing software solutions for the healthcare industry. We provide hospitals, clinics, and research centers with systems for patient management, diagnostics, medical imaging, and telemedicine. Our solutions are compliant with international standards such as HIPAA and GDPR, ensuring data privacy and operational efficiency. The company's team includes domain experts, healthcare professionals, and experienced developers. With a strong focus on innovation and usability, MediSoft Labs has become a trusted partner for over 500 healthcare organizations across North America, Europe, and Asia.",
+        "location": "Boston, MA",
+        "website": "https://www.medisoft.co.uk/",
+        "industry": "Healthcare Software"
+    },
+    {
+        "id": "CMP006",
+        "name": "GreenGrid Energy",
+        "logo": "https://i.ibb.co.com/s9g92Vnd/unnamed.png",
+        "discription": "GreenGrid Energy is an energy technology company focused on building sustainable solutions for a greener future. We develop software and IoT hardware for energy monitoring, smart grids, and renewable energy systems. Our clients include utility companies, commercial property owners, and government agencies. Through real-time data analytics and AI-based optimization, our systems reduce energy waste and operational costs. We are committed to innovation and environmental stewardship. Our R&D team works constantly on improving energy storage, predictive maintenance, and intelligent grid balancing.",
+        "location": "Austin, TX",
+        "website": "https://www.thegreengrid.org/",
+        "industry": "Energy Technology"
+    },
+    {
+        "id": "CMP007",
+        "name": "EduSphere",
+        "logo": "https://i.ibb.co.com/x8LnQrLL/eduspare.png",
+        "discription": "EduSphere is an edtech company dedicated to transforming the way students learn and teachers teach. We create interactive, adaptive learning platforms and provide tools for virtual classrooms, real-time assessments, and curriculum customization. Our AI-driven recommendation engine ensures personalized learning paths for each student. EduSphere supports K-12, higher education, and corporate training initiatives. Our mission is to democratize education and make quality resources accessible worldwide. Trusted by thousands of institutions, EduSphere's intuitive interfaces and robust backend systems offer a seamless educational experience across devices and locations.",
+        "location": "London, UK",
+        "website": "https://www.eduspheresolutions.com/",
+        "industry": "Education Technology"
+    },
+    {
+        "id": "CMP008",
+        "name": "AutoPilotAI",
+        "logo": "https://i.ibb.co.com/1t94B4Sx/643e940605988ee813cc1628-Color-logo-no-background.png",
+        "discription": "AutoPilotAI is at the forefront of autonomous driving and automotive AI. We develop software systems for self-driving vehicles, including perception, decision-making, and control modules. Our technology is designed to work across various environments, from highways to urban roads. With state-of-the-art machine learning algorithms, we enhance safety, reduce human error, and optimize fuel efficiency. Our platform supports OEM integration and complies with global transportation standards. AutoPilotAI collaborates with manufacturers, universities, and regulators to accelerate the future of transportation.",
+        "location": "Berlin, Germany",
+        "website": "https://autopilotai.com/",
+        "industry": "Autonomous Vehicles"
+    },
+    {
+        "id": "CMP009",
+        "name": "SecureNet Systems",
+        "logo": "https://i.ibb.co.com/hxFFnvST/dcc7a78518cbdcf21ee642889bac7bd7.webp",
+        "discription": "SecureNet Systems provides cybersecurity solutions to protect digital infrastructure from modern threats. Our offerings include endpoint security, threat detection, network monitoring, and compliance management. We use advanced AI to identify vulnerabilities and prevent breaches in real-time. Serving industries like finance, healthcare, and government, SecureNet delivers tailored security frameworks backed by 24/7 monitoring. Our experts regularly conduct penetration testing, security audits, and incident response training. We ensure that our clients stay ahead of evolving cyber threats with continuous updates and threat intelligence sharing.",
+        "location": "Tel Aviv, Israel",
+        "website": "https://www.securenetsystems.net/",
+        "industry": "Cybersecurity"
+    },
+    {
+        "id": "CMP010",
+        "name": "NeoCommerce",
+        "logo": "https://i.ibb.co.com/spJNfJwH/f78d9d0b0202ff542ed824b55f793142.jpg",
+        "discription": "NeoCommerce is a next-generation e-commerce platform designed to help brands launch and scale online stores with ease. We offer a complete suite of tools including storefront customization, payment integration, logistics automation, and AI-based customer insights. Our scalable infrastructure supports businesses of all sizes—from small startups to global enterprises. With a focus on user experience and performance, NeoCommerce enables merchants to provide seamless shopping experiences. We continuously innovate by integrating social commerce features, voice shopping capabilities, and augmented reality previews for products.",
+        "location": "Dubai, UAE",
+        "website": "https://www.bankneocommerce.co.id/en/",
+        "industry": "E-commerce Technology"
+    },
+    {
+        "id": "CMP011",
+        "name": "XR Visionary",
+        "logo": "https://i.ibb.co.com/v4x5tszk/dg2qa5r-19daacad-2be7-4565-8c10-ff24efa64d77.png",
+        "discription": "VisionaryXR is an immersive technology company focused on developing augmented and virtual reality solutions for industries like education, healthcare, and real estate. Our platforms allow users to experience simulated environments with exceptional realism. By leveraging AI, 3D modeling, and motion tracking, we create products that engage, educate, and entertain. VisionaryXR is transforming how people interact with digital content through multi-sensory applications and training tools. We work with schools, hospitals, and businesses worldwide to bring immersive experiences to life, improving learning outcomes, operational efficiency, and customer engagement.",
+        "location": "Los Angeles, CA",
+        "website": "https://agauny.wixsite.com/xr-visionary-society/",
+        "industry": "Extended Reality (XR)"
+    },
+    {
+        "id": "CMP012",
+        "name": "AgroTech Farm",
+        "logo": "https://i.ibb.co.com/bMHfn7Wc/agro-tech-logo-icon-brand-identity-sign-symbol-vector.jpg",
+        "discription": "AgroTech Farm combines agriculture and technology to create smart farming solutions that boost productivity and sustainability. We offer AI-driven crop monitoring, automated irrigation systems, and vertical farming hardware for urban growers. Our platform helps farmers make data-informed decisions about planting, fertilizing, and harvesting. AgroTech Farm partners with agricultural cooperatives, universities, and NGOs to promote food security and sustainable farming practices. With remote sensing and predictive analytics, our tools help detect diseases early, optimize water use, and increase crop yields.",
+        "location": "Amsterdam, Netherlands",
+        "website": "https://agrotechfarm.com/",
+        "industry": "AgriTech"
+    },
+    {
+        "id": "CMP013",
+        "name": "LogiChain",
+        "logo": "https://i.ibb.co.com/G4zQQQ7q/images.png",
+        "discription": "LogiChain is a supply chain optimization company that uses blockchain and AI to bring transparency and efficiency to logistics. Our platform allows real-time tracking of goods, automates document verification, and reduces fraud. We help manufacturers, logistics providers, and retailers manage global supply chains more effectively. LogiChain's smart contracts ensure accountability and reduce paperwork, while our analytics dashboard helps companies identify bottlenecks and inefficiencies. Trusted by global brands, we’re making global trade smarter, faster, and more secure.",
+        "location": "Singapore",
+        "website": "https://www.logichain.org/",
+        "industry": "Supply Chain Technology"
+    },
+    {
+        "id": "CMP014",
+        "name": "QuantumLeap AI",
+        "logo": "https://i.ibb.co.com/prNsyrJ7/Go-Ft-Yln-WUAApvl-M.jpg",
+        "discription": "QuantumLeap AI develops cutting-edge artificial intelligence models for use in scientific research, finance, and defense. Our proprietary algorithms accelerate simulations, automate decision-making, and discover patterns in complex datasets. We work with governments, universities, and multinational corporations to solve real-world problems using quantum-inspired computation. Our platform blends machine learning with quantum theory to deliver exponential performance gains in areas like drug discovery, portfolio optimization, and weather forecasting. Innovation is at the core of everything we do, pushing AI capabilities to new frontiers.",
+        "location": "Zurich, Switzerland",
+        "website": "https://quantumleap.ai/",
+        "industry": "Artificial Intelligence"
+    },
+    {
+        "id": "CMP015",
+        "name": "BuildWise",
+        "logo": "https://i.ibb.co.com/svtgkKPm/images-1.png",
+        "discription": "BuildWise provides project management and automation software for the construction and real estate sectors. Our all-in-one platform includes budgeting tools, scheduling modules, document control, and safety compliance features. We help builders streamline workflows, reduce waste, and stay within deadlines. BuildWise is used by contractors, architects, and developers across residential, commercial, and industrial projects. Through integrations with BIM, drones, and IoT sensors, we deliver actionable insights and improve collaboration on job sites. Our mission is to simplify construction management with smart technology.",
+        "location": "Sydney, Australia",
+        "website": "https://www.buildwise.ai/",
+        "industry": "Construction Tech"
+    },
+    {
+        "id": "CMP016",
+        "name": "PixelForge Studios",
+        "logo": "https://i.ibb.co.com/kV8GVLkr/banner.jpg",
+        "discription": "PixelForge Studios is a creative digital agency specializing in motion graphics, 3D animation, and interactive media. We serve advertising agencies, gaming companies, and filmmakers with high-quality visual storytelling. Our team combines artistic talent with technical expertise to produce immersive experiences that captivate audiences. Whether it's a product explainer video, a VR walkthrough, or a brand campaign, we handle everything from concept to execution. Our proprietary rendering engine reduces turnaround time without compromising visual fidelity, making us a go-to partner for time-sensitive creative projects.",
+        "location": "Tokyo, Japan",
+        "website": "https://pixelforge.co/",
+        "industry": "Digital Media & Animation"
+    },
+    {
+        "id": "CMP017",
+        "name": "FleetIQ",
+        "logo": "https://i.ibb.co.com/sJzkBc5N/images-2.png",
+        "discription": "FleetIQ provides fleet management solutions for logistics, delivery, and transportation companies. We offer real-time GPS tracking, driver performance analytics, fuel optimization tools, and maintenance scheduling. FleetIQ helps reduce operational costs while improving safety and efficiency. Our software integrates with telematics hardware and mobile apps for drivers, making it easy for companies to monitor their entire vehicle network from one dashboard. With AI-based route planning and automated reporting, we help companies deliver faster and smarter.",
+        "location": "Chicago, IL",
+        "website": "https://fleetiq.com/",
+        "industry": "Fleet Management"
+    },
+    {
+        "id": "CMP018",
+        "name": "BioNext Genomics",
+        "logo": "https://i.ibb.co.com/35zMYGNx/71663b42c88274649d2d162b4c60de86d4ad4fd3-300x175.jpg",
+        "discription": "BioNext Genomics is a biotech company advancing precision medicine through genomic analysis and personalized diagnostics. We develop tools for sequencing, genetic testing, and data interpretation to empower clinicians and researchers. Our cloud-based analytics platform ensures data privacy while enabling collaborative research. BioNext partners with hospitals, pharma companies, and universities to accelerate disease detection and treatment strategies. Our innovations are shaping the future of healthcare by making genetic insights actionable, affordable, and accessible to everyone.",
+        "location": "San Diego, CA",
+        "website": "https://www.bionext.lu/en/service/molecular-biology",
+        "industry": "Biotechnology"
+    },
+    {
+        "id": "CMP019",
+        "name": "LegalEase AI",
+        "logo": "https://i.ibb.co.com/JWLw9chW/compressed-cb4676776452a38285fd77c8942cc27a.webp",
+        "discription": "LegalEase AI streamlines legal research and document drafting using natural language processing and machine learning. Our platform analyzes contracts, suggests clauses, and flags legal risks in real-time. Legal professionals use our tools to reduce hours of manual work, minimize human error, and improve compliance. LegalEase integrates with popular document management systems and supports multiple languages and jurisdictions. We’re trusted by law firms, in-house counsel, and paralegals looking to modernize their workflow and enhance accuracy through intelligent automation.",
+        "location": "Dublin, Ireland",
+        "website": "https://www.legaleaseplan.com/i",
+        "industry": "Legal Technology"
+    },
+    {
+        "id": "CMP020",
+        "name": "ShopSavvy AI",
+        "logo": "https://i.ibb.co.com/8ng7WCMJ/large-773450-ebcvngmy4lkjtmum0cjqvjma6.jpg",
+        "discription": "ShopSavvy AI is a retail intelligence platform that uses machine learning to analyze customer behavior, inventory trends, and sales performance. We help retailers optimize pricing, forecast demand, and deliver personalized marketing campaigns. ShopSavvy’s analytics engine integrates seamlessly with POS systems, CRMs, and e-commerce platforms. Our clients include both brick-and-mortar stores and online retailers who want to stay competitive in a fast-changing market. Our goal is to make retail smarter, faster, and more responsive to customer needs.",
+        "location": "Atlanta, GA",
+        "website": "https://shopsavvy.com/",
+        "industry": "Retail Technology"
+    },
+    {
+        "id": "CMP021",
+        "name": "EcoLogix",
+        "logo": "https://i.ibb.co.com/xtJ2RFbx/Eco-Blue-1-1.png",
+        "discription": "EcoLogix is an environmental analytics company that provides software and services to monitor and reduce carbon footprints. Our platform collects data from sensors, vehicles, and facilities to measure emissions and track sustainability metrics. We help businesses comply with environmental regulations and achieve their ESG goals. EcoLogix offers real-time dashboards, automated reporting, and forecasting tools that drive green decision-making. Our clients include manufacturers, logistics firms, and municipalities committed to reducing their environmental impact through actionable insights and innovative technology.",
+        "location": "Copenhagen, Denmark",
+        "website": "https://ecologixsystems.com/",
+        "industry": "Environmental Technology"
+    }
+]

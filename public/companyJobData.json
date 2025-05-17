@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "JOB001",
+    "companyId": "CMP003",
+    "title": "Software Engineer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Remote",
+    "salary": "$100,000 - $120,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB002",
+    "companyId": "CMP015",
+    "title": "Product Manager",
+    "category": "Product",
+    "bannerImage": "https://i.ibb.co.com/qFhxHqwX/What-is-product-management.jpg",
+    "location": "New York, NY",
+    "salary": "$120,000 - $150,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB003",
+    "companyId": "CMP008",
+    "title": "UX Designer",
+    "category": "Design",
+    "bannerImage": "https://i.ibb.co.com/SXTDQtt6/360-F-283463385-mfnrx6-RPU3-Bq-Obh-Vu-Vj-YZje-Z5peg-E7xq.jpg",
+    "location": "London, UK",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB004",
+    "companyId": "CMP014",
+    "title": "QA Tester",
+    "category": "Quality Assurance",
+    "bannerImage": "https://i.ibb.co.com/60bZHNS9/depositphotos-693954840-stock-photo-elegant-hand-holding-quality-inscription.webp",
+    "location": "Berlin, Germany",
+    "salary": "$60,000 - $80,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB005",
+    "companyId": "CMP010",
+    "title": "Systems Engineer",
+    "category": "Infrastructure",
+    "bannerImage": "https://i.ibb.co.com/5h6CHbfn/2024-May-Network-Infrastructure-Everything-You-Need-To-Know-1200x750-1.jpg",
+    "location": "Toronto, Canada",
+    "salary": "$100,000 - $120,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB006",
+    "companyId": "CMP011",
+    "title": "Data Scientist",
+    "category": "Data Science",
+    "bannerImage": "https://i.ibb.co.com/Y7hH7Wh9/istockphoto-1479759169-612x612.jpg",
+    "location": "Tokyo, Japan",
+    "salary": "$120,000 - $150,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB007",
+    "companyId": "CMP012",
+    "title": "ML Engineer",
+    "category": "Data Science",
+    "bannerImage": "https://i.ibb.co.com/Y7hH7Wh9/istockphoto-1479759169-612x612.jpg",
+    "location": "Remote",
+    "salary": "$110,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB008",
+    "companyId": "CMP001",
+    "title": "Backend Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "New York, NY",
+    "salary": "$100,000 - $120,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB009",
+    "companyId": "CMP019",
+    "title": "Frontend Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "London, UK",
+    "salary": "$90,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB010",
+    "companyId": "CMP007",
+    "title": "Product Designer",
+    "category": "Design",
+    "bannerImage": "https://i.ibb.co.com/qFhxHqwX/What-is-product-management.jpg",
+    "location": "Berlin, Germany",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB011",
+    "companyId": "CMP018",
+    "title": "Automation Engineer",
+    "category": "Quality Assurance",
+    "bannerImage": "https://i.ibb.co.com/60bZHNS9/depositphotos-693954840-stock-photo-elegant-hand-holding-quality-inscription.webp",
+    "location": "Toronto, Canada",
+    "salary": "$100,000 - $120,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB012",
+    "companyId": "CMP020",
+    "title": "HR Manager",
+    "category": "Human Resources",
+    "bannerImage": "https://i.ibb.co.com/zVHMnZbw/humanresource.jpg",
+    "location": "Remote",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB013",
+    "companyId": "CMP002",
+    "title": "Marketing Manager",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "London, UK",
+    "salary": "$90,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB014",
+    "companyId": "CMP017",
+    "title": "Customer Support Specialist",
+    "category": "Customer Support",
+    "bannerImage": "https://i.ibb.co.com/chbFBNW5/360-F-262007291-TGs-CKN42poe-Mv-EC8-Go-UHW41sf-Ydf-Pj-Ji.jpg",
+    "location": "Remote",
+    "salary": "$50,000 - $70,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB015",
+    "companyId": "CMP013",
+    "title": "Content Strategist",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "Remote",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB016",
+    "companyId": "CMP009",
+    "title": "Network Administrator",
+    "category": "Infrastructure",
+    "bannerImage": "https://i.ibb.co.com/5h6CHbfn/2024-May-Network-Infrastructure-Everything-You-Need-To-Know-1200x750-1.jpg",
+    "location": "Toronto, Canada",
+    "salary": "$90,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB017",
+    "companyId": "CMP004",
+    "title": "Sales Manager",
+    "category": "Sales",
+    "bannerImage": "https://i.ibb.co.com/5x9tn2ZR/Characteristics-that-determine-sales-growth.png",
+    "location": "Berlin, Germany",
+    "salary": "$100,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB018",
+    "companyId": "CMP002",
+    "title": "Business Analyst",
+    "category": "Business Development",
+    "bannerImage": "https://i.ibb.co.com/Ld6J2pVK/Hire-Sales-and-Business-Development-for-Startup.jpg",
+    "location": "New York, NY",
+    "salary": "$85,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB019",
+    "companyId": "CMP013",
+    "title": "Chief Marketing Officer",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "Remote",
+    "salary": "$150,000 - $200,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Master's degree in relevant field",
+      "7+ years experience",
+      "Strong leadership and communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB020",
+    "companyId": "CMP006",
+    "title": "Digital Marketing Specialist",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "Remote",
+    "salary": "$70,000 - $90,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB021",
+    "companyId": "CMP017",
+    "title": "Java Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Remote",
+    "salary": "$90,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB022",
+    "companyId": "CMP001",
+    "title": "Security Analyst",
+    "category": "Infrastructure",
+    "bannerImage": "https://i.ibb.co.com/5h6CHbfn/2024-May-Network-Infrastructure-Everything-You-Need-To-Know-1200x750-1.jpg",
+    "location": "San Francisco, CA",
+    "salary": "$120,000 - $150,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB023",
+    "companyId": "CMP004",
+    "title": "HR Coordinator",
+    "category": "Human Resources",
+    "bannerImage": "https://i.ibb.co.com/zVHMnZbw/humanresource.jpg",
+    "location": "Chicago, IL",
+    "salary": "$60,000 - $80,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB024",
+    "companyId": "CMP015",
+    "title": "Graphic Designer",
+    "category": "Design",
+    "bannerImage": "https://i.ibb.co.com/SXTDQtt6/360-F-283463385-mfnrx6-RPU3-Bq-Obh-Vu-Vj-YZje-Z5peg-E7xq.jpg",
+    "location": "Remote",
+    "salary": "$70,000 - $90,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": true
+  },
+  {
+    "id": "JOB025",
+    "companyId": "CMP019",
+    "title": "Marketing Coordinator",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "London, UK",
+    "salary": "$60,000 - $80,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB026",
+    "companyId": "CMP016",
+    "title": "Software Architect",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "San Francisco, CA",
+    "salary": "$130,000 - $150,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB027",
+    "companyId": "CMP005",
+    "title": "DevOps Engineer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Austin, TX",
+    "salary": "$100,000 - $120,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": [
+      "Full-time",
+      "Remote Friendly",
+      "Equity"
+    ],
+    "isLatest": false
+  },
+  {
+    "id": "JOB028",
+    "companyId": "CMP019",
+    "title": "Product Designer",
+    "category": "Design",
+    "bannerImage": "https://i.ibb.co.com/qFhxHqwX/What-is-product-management.jpg",
+    "location": "Paris, France",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": true
+  },
+  {
+    "id": "JOB029",
+    "companyId": "CMP017",
+    "title": "Product Manager",
+    "category": "Product",
+    "bannerImage": "https://i.ibb.co.com/qFhxHqwX/What-is-product-management.jpg",
+    "location": "New York, NY",
+    "salary": "$120,000 - $150,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB030",
+    "companyId": "CMP004",
+    "title": "UX Researcher",
+    "category": "Design",
+    "bannerImage": "https://i.ibb.co.com/SXTDQtt6/360-F-283463385-mfnrx6-RPU3-Bq-Obh-Vu-Vj-YZje-Z5peg-E7xq.jpg",
+    "location": "San Francisco, CA",
+    "salary": "$90,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "4+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": true
+  },
+  {
+    "id": "JOB031",
+    "companyId": "CMP008",
+    "title": "Database Administrator",
+    "category": "Infrastructure",
+    "bannerImage": "https://i.ibb.co.com/5h6CHbfn/2024-May-Network-Infrastructure-Everything-You-Need-To-Know-1200x750-1.jpg",
+    "location": "London, UK",
+    "salary": "$110,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB032",
+    "companyId": "CMP007",
+    "title": "Mobile App Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Berlin, Germany",
+    "salary": "$100,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB033",
+    "companyId": "CMP013",
+    "title": "Content Writer",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "Remote",
+    "salary": "$50,000 - $70,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB034",
+    "companyId": "CMP011",
+    "title": "Full-stack Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Remote",
+    "salary": "$110,000 - $140,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB035",
+    "companyId": "CMP005",
+    "title": "Cloud Architect",
+    "category": "Infrastructure",
+    "bannerImage": "https://i.ibb.co.com/5h6CHbfn/2024-May-Network-Infrastructure-Everything-You-Need-To-Know-1200x750-1.jpg",
+    "location": "Austin, TX",
+    "salary": "$120,000 - $150,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "6+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB036",
+    "companyId": "CMP003",
+    "title": "Product Marketing Manager",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "Los Angeles, CA",
+    "salary": "$90,000 - $120,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "4+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB037",
+    "companyId": "CMP020",
+    "title": "Marketing Director",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "Paris, France",
+    "salary": "$140,000 - $180,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "7+ years experience",
+      "Strong leadership and communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": true
+  },
+  {
+    "id": "JOB038",
+    "companyId": "CMP010",
+    "title": "Data Engineer",
+    "category": "Data Science",
+    "bannerImage": "https://i.ibb.co.com/Y7hH7Wh9/istockphoto-1479759169-612x612.jpg",
+    "location": "Remote",
+    "salary": "$100,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "4+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB039",
+    "companyId": "CMP015",
+    "title": "Software Engineer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Toronto, Canada",
+    "salary": "$80,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB040",
+    "companyId": "CMP014",
+    "title": "QA Engineer",
+    "category": "Quality Assurance",
+    "bannerImage": "https://i.ibb.co.com/60bZHNS9/depositphotos-693954840-stock-photo-elegant-hand-holding-quality-inscription.webp",
+    "location": "Austin, TX",
+    "salary": "$70,000 - $90,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB041",
+    "companyId": "CMP018",
+    "title": "Cloud Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Chicago, IL",
+    "salary": "$100,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "4+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB042",
+    "companyId": "CMP006",
+    "title": "Data Scientist",
+    "category": "Data Science",
+    "bannerImage": "https://i.ibb.co.com/Y7hH7Wh9/istockphoto-1479759169-612x612.jpg",
+    "location": "Toronto, Canada",
+    "salary": "$120,000 - $150,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": true
+  },
+  {
+    "id": "JOB043",
+    "companyId": "CMP021",
+    "title": "Business Analyst",
+    "category": "Business Development",
+    "bannerImage": "https://i.ibb.co.com/Ld6J2pVK/Hire-Sales-and-Business-Development-for-Startup.jpg",
+    "location": "Los Angeles, CA",
+    "salary": "$90,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB044",
+    "companyId": "CMP003",
+    "title": "SEO Specialist",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "San Francisco, CA",
+    "salary": "$60,000 - $80,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB045",
+    "companyId": "CMP022",
+    "title": "Chief Technology Officer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Berlin, Germany",
+    "salary": "$160,000 - $200,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "8+ years experience",
+      "Strong leadership and communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB046",
+    "companyId": "CMP009",
+    "title": "Front-end Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "New York, NY",
+    "salary": "$90,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": true
+  },
+  {
+    "id": "JOB047",
+    "companyId": "CMP010",
+    "title": "Cloud Solutions Architect",
+    "category": "Infrastructure",
+    "bannerImage": "https://i.ibb.co.com/5h6CHbfn/2024-May-Network-Infrastructure-Everything-You-Need-To-Know-1200x750-1.jpg",
+    "location": "Austin, TX",
+    "salary": "$130,000 - $160,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB048",
+    "companyId": "CMP017",
+    "title": "Mobile Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Paris, France",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB049",
+    "companyId": "CMP022",
+    "title": "Customer Success Manager",
+    "category": "Customer Support",
+    "bannerImage": "https://i.ibb.co.com/chbFBNW5/360-F-262007291-TGs-CKN42poe-Mv-EC8-Go-UHW41sf-Ydf-Pj-Ji.jpg",
+    "location": "London, UK",
+    "salary": "$70,000 - $90,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB050",
+    "companyId": "CMP003",
+    "title": "Sales Manager",
+    "category": "Sales",
+    "bannerImage": "https://i.ibb.co.com/5x9tn2ZR/Characteristics-that-determine-sales-growth.png",
+    "location": "Chicago, IL",
+    "salary": "$110,000 - $140,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB051",
+    "companyId": "CMP008",
+    "title": "Senior Backend Developer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "Berlin, Germany",
+    "salary": "$100,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB052",
+    "companyId": "CMP012",
+    "title": "Frontend Engineer",
+    "category": "Engineering",
+    "bannerImage": "https://i.ibb.co.com/4whCLsTb/istockphoto-1435220822-612x612.jpg",
+    "location": "San Francisco, CA",
+    "salary": "$110,000 - $140,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB053",
+    "companyId": "CMP019",
+    "title": "Data Analyst",
+    "category": "Data Science",
+    "bannerImage": "https://i.ibb.co.com/Y7hH7Wh9/istockphoto-1479759169-612x612.jpg",
+    "location": "New York, NY",
+    "salary": "$75,000 - $95,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB054",
+    "companyId": "CMP015",
+    "title": "UX/UI Designer",
+    "category": "Design",
+    "bannerImage": "https://i.ibb.co.com/SXTDQtt6/360-F-283463385-mfnrx6-RPU3-Bq-Obh-Vu-Vj-YZje-Z5peg-E7xq.jpg",
+    "location": "Los Angeles, CA",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB055",
+    "companyId": "CMP024",
+    "title": "Marketing Director",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "London, UK",
+    "salary": "$130,000 - $160,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "6+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB056",
+    "companyId": "CMP005",
+    "title": "Product Manager",
+    "category": "Product",
+    "bannerImage": "https://i.ibb.co.com/qFhxHqwX/What-is-product-management.jpg",
+    "location": "Toronto, Canada",
+    "salary": "$90,000 - $120,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "4+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB057",
+    "companyId": "CMP011",
+    "title": "Content Writer",
+    "category": "Marketing",
+    "bannerImage": "https://i.ibb.co.com/zVpvhjxV/what-is-marketing-1024x572.webp",
+    "location": "San Francisco, CA",
+    "salary": "$55,000 - $70,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "2+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB058",
+    "companyId": "CMP020",
+    "title": "HR Manager",
+    "category": "Human Resources",
+    "bannerImage": "https://i.ibb.co.com/zVHMnZbw/humanresource.jpg",
+    "location": "Chicago, IL",
+    "salary": "$80,000 - $100,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB059",
+    "companyId": "CMP004",
+    "title": "Business Development Executive",
+    "category": "Business Development",
+    "bannerImage": "https://i.ibb.co.com/Ld6J2pVK/Hire-Sales-and-Business-Development-for-Startup.jpg",
+    "location": "London, UK",
+    "salary": "$100,000 - $130,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "5+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  },
+  {
+    "id": "JOB060",
+    "companyId": "CMP018",
+    "title": "Network Engineer",
+    "category": "Infrastructure",
+    "bannerImage": "https://i.ibb.co.com/5h6CHbfn/2024-May-Network-Infrastructure-Everything-You-Need-To-Know-1200x750-1.jpg",
+    "location": "New York, NY",
+    "salary": "$85,000 - $110,000",
+    "description": "This is a detailed job description that outlines the responsibilities, required skills, and expectations for the role. The position requires problem-solving abilities, collaboration with cross-functional teams, and a passion for continuous improvement. Candidates must be driven and capable of adapting in a fast-paced environment.",
+    "requirements": [
+      "Bachelor's degree in relevant field",
+      "3+ years experience",
+      "Strong communication skills"
+    ],
+    "tags": ["Full-time", "Remote Friendly", "Equity"],
+    "isLatest": false
+  }
+]

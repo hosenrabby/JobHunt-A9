@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@plugin "daisyui"{
+    themes: light --default;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+html body{
+    font-family: "Roboto Flex", sans-serif;
+}
+
+.banner-bg{
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0% 100%);
+    min-height: 650px;
+}
+.banner-subscription{
+    background-image: url(../public/assets/Animated\ Shape.svg);
+    background-size: cover;
+    background-attachment: fixed;
+}
