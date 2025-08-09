@@ -1,23 +1,19 @@
-# React + Vite
 # 🧑‍💼 Job Hunt - Professional Job Portal
 
-**Job Hunt** is a modern, responsive job portal web application where users can register, update profiles, browse job listings, and connect with employers. It’s built with the latest technologies including **React**, **TailwindCSS**, **DaisyUI**, and **React Router**, with a sleek UI and smooth UX.
+A comprehensive job listing platform that enables users to browse, search, and apply for jobs seamlessly, with secure authentication and a user-friendly interface.
 
+🔎 Project Overview
+Job Hunt is a web application designed to connect job seekers with employers by providing up-to-date job listings, detailed job descriptions, and an easy application process. Authenticated users can manage their profiles, track applications, and save favorite jobs.
+
+🖼 Screenshot
+![Job HUnt — screenshot](./public/Screenshot.png)
 ---
+## 🔗 Live Demo
 
-## 🔧 Technologies Used
+[🌐 Live Website](https://job-hunt-8ca298.netlify.app/)
 
-- ⚛️ React
-- 📦 React Router
-- 🎨 Tailwind CSS + DaisyUI
-- 🌐 Headless UI
-- 🧠 React Icons
-- 📩 Firebase Authentication
-- 🚀 Framer Motion (for animations)
 
----
-
-## 📁 Features
+## 🚀 Core Features
 
 - 🔐 User registration and login
 - 👤 Update profile with image upload
@@ -29,10 +25,38 @@
 
 ---
 
-## 🚀 Getting Started
+## 🔐 Protected Routes
 
-### 1. Clone the Repository
+Protected using a `PrivateRoute` component that checks user authentication via context and JWT.
 
-```bash
-git clone https://github.com/programming-hero-web-course1/b11a9-react-authentication-hosenrabby.git
-cd job-hunt
+Pages:
+- `/add-service`
+- `/my-services`
+- `/my-reviews`
+- `/service-details/:id`
+
+---
+
+## 🧑‍💻 Tech Stack
+
+**Frontend:**
+- React.js
+- React Router v6.4+
+- Tailwind CSS
+- DaisyUI
+- React Icons
+
+---
+
+🚀 Run Locally — Step by Step
+1. Clone the repository <br/>
+git clone [Clone](https://github.com/hosenrabby/JobHunt-A9.git)<br/>
+cd reviewTracker<br/>
+Run dependencies 
+- npm install
+- npm run dev
+---
+📬 Contact
+
+Reach me at: hosenrabby.dev@gmail.com
+
